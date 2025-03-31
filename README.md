@@ -1,4 +1,9 @@
-# Hello 👋! I'm Ailton, a Cadet at 42 São Paulo
+# Hello !! I'm Ailton Bezerra, Cadet at 42 São Paulo
+École 42 is a groundbreaking, tuition-free coding school founded in Paris (2013), renowned for its disruptive approach to tech education.
+With a peer-to-peer learning model and no formal teachers, students tackle intense coding challenges and real-world projects,
+fostering creativity, problem-solving, and collaboration. "Cadet" is the title awarded to students who successfully complete the rigorous 26-day selection process known as the "piscine",
+an immersive challenge that tests coding skills, resilience, and collaboration under intense pressure.
+
 
 ### 🚀 Technologies & Tools
 
