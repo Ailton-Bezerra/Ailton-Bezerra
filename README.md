@@ -1,4 +1,4 @@
-# Hello !! I'm `Ailton Bezerra`, Cadet at 42 São Paulo 🎒
+# $${\color{lightgreen}Hello \ !!\ I\ am\ Ailton\ Bezerra,\ Cadet\ at\ 42\ São\ Paulo}$$ 🎒
 École 42 is a groundbreaking, tuition-free software engineering school founded in Paris (2013), renowned for its disruptive approach to tech education.
 With a peer-to-peer learning model and no formal teachers, students tackle intense coding challenges and real-world projects,
 fostering creativity, problem-solving, and collaboration.
