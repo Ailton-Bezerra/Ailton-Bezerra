@@ -24,8 +24,8 @@ The 42 curriculum primarily covers:
 [![Printf](./badges/ft_printfe.png)](https://github.com/Ailton-Bezerra/Printf_42)
 [![get_next_line](./badges/get_next_linem.png)](https://github.com/Ailton-Bezerra/Get_next_line_42)
 [![Minitalk](./badges/minitalkm.png)](https://github.com/Ailton-Bezerra/Minitalk_42)
-[![FdF](./badges/fdfm.png)](https://github.com/Ailton-Bezerra/FDF_42)
 [![Push_Swap](./badges/push_swapm.png)](https://github.com/Ailton-Bezerra/Push_swap)
+[![FdF](./badges/fdfm.png)](https://github.com/Ailton-Bezerra/FDF_42)
 [![Minishell](./badges/minishelle.png)](https://github.com/Ailton-Bezerra/Minishell_42)
 
 ---
