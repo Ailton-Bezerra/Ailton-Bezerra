@@ -14,7 +14,7 @@ an immersive challenge that tests coding skills, resilience, and collaboration u
 
 ---
 ### 📝 Ongoing project
-[![Libft](./badges/philosopherse.png)](https://github.com/Ailton-Bezerra/Libft_42)
+[![Libft](./badges/philosopherse.png)](https://github.com/Ailton-Bezerra/Philosophers_42)
 
 ---
 ### 📚 Projects delivered at 42
